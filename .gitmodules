@@ -3,5 +3,5 @@
 	url = https://github.com/eunomia-bpf/bpftool
 [submodule "wasm-runtime"]
 	path = wasm-runtime
-	url = https://github.com/eunomia-bpf/wasm-bpf
+	url = https://github.com/wrepo/wasm-bpf
 	branch = main
